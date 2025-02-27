@@ -1,10 +1,9 @@
-## Hi 
-
-<!--
-**rhoda-mboya1/rhoda-mboya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Hi
+Am Rhoda Mboya 
+A student at the IYF Kenya ,weekend 
+Academy 
+Am currently pursuing a certificate in computer programming.
+Technology is evolving really fast.This has made me develop passion for computer programming .
 - 🔭 I’m currently working on  java script, python, c, c++ programming languages
 - 🌱 I’m currently learning  computer programming basics...
 - 👯 I’m looking to collaborate on future school and workspace projects..
